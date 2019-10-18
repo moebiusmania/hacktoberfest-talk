@@ -1,2 +1,2 @@
 # hacktoberfest-talk
-Talks made during Hacktoberfest events
+Talks made during Hacktoberfest events.
